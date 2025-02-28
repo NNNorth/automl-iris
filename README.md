@@ -18,5 +18,5 @@
 ## 🛠 Установка
 1. Клонировать репозиторий:
 ```bash
-git clone https://github.com/yourusername/automl-iris.git
+git clone [https://github.com/NNNorth/automl-iris.git]
 cd automl-iris
